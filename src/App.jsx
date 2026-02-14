@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import confetti from 'canvas-confetti'
-import videoFile from './assets/MicrosoftTeams-video.mp4'
+import videoFile from './assets/Karthi.mp4'
 import './App.css'
 
 function App() {
@@ -118,7 +118,7 @@ function App() {
       ) : (
         <div className="card">
           <h1 className="title">
-            <span className="highlight">Dhanushya,</span>
+            <span className="highlight">Dhakshinya💞,</span>
             Will you be my Valentine? 💖💞
           </h1>
 

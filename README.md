@@ -43,7 +43,7 @@ A fun, interactive React application designed to prank your special someone on V
 
 ## 📝 Customization
 
-- **Video**: Replace `src/assets/MicrosoftTeams-video.mp4` with your own video file.
+- **Video**: Replace `src/assets/Karthi.mp4` with your own video file.
 - **Text**: Update the messages in `src/App.jsx` to personalize the name and prank text.
 - **Images**: You can swap the favicon in `public/heart.svg`.
 
